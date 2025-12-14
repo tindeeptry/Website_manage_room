@@ -25,7 +25,7 @@ Hệ thống giúp giảm bớt việc quản lý thủ công bằng sổ sách,
 
 <img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/8748656f-2c0b-470c-84c3-d64f8c9cd49c" />
 
-* Giao dienj đăng ký
+* Giao diện đăng ký
 
 <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/940c929b-e03a-4276-97cb-d7b6401fbd52" />
  
